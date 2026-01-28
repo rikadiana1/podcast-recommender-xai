@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.env
+.venv/
+venv/
+
+# Outputs
+nlp_outputs/
+nlp_outputs_v2/
+figures_eda/
+
+# Data files (optional)
+*.xlsx
+
+# OS
+.DS_Store

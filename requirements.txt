@@ -1,0 +1,28 @@
+# Core
+numpy
+pandas
+scipy
+
+# API / scraping / utilities
+requests
+feedparser
+python-dotenv
+tqdm
+
+# Language detection
+langdetect
+
+# NLP / ML
+scikit-learn
+joblib
+sentence-transformers
+
+# Explainability
+shap
+
+# Plotting
+matplotlib
+seaborn
+
+# Excel export (pandas ExcelWriter engine)
+openpyxl
