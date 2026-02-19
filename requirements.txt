@@ -1,13 +1,11 @@
 # Core
 numpy
 pandas
-scipy
 
 # API / scraping / utilities
 requests
 feedparser
 python-dotenv
-tqdm
 
 # Language detection
 langdetect
@@ -22,7 +20,6 @@ shap
 
 # Plotting
 matplotlib
-seaborn
 
 # Excel export (pandas ExcelWriter engine)
 openpyxl
